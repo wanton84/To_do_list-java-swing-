@@ -1,1 +1,1 @@
-# To_do_list-java-swing-
+A simple To Do List Application using Java and Swing
